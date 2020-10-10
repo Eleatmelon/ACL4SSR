@@ -1,6 +1,6 @@
 #**********************************************************************
-# 09.07
-# 2020年9月7日23:29:32
+# 10.03
+# 2020年10月3日11:41:57
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -458,7 +458,7 @@
 
 # YYeTs 人人影视
 (^|\.)got001\.com$
-(^|\.)jstucdn\.com$
+(^|\.)p4pfile\.com$
 (^|\.)rrys\.tv$
 (^|\.)rrys2020\.com$
 (^|\.)yyets\.com$
@@ -711,7 +711,6 @@
 (^|\.)smzdm\.com$
 (^|\.)snwx\.com$
 (^|\.)soufunimg\.com$
-(^|\.)ssl-images-amazon\.com$
 (^|\.)sspai\.com$
 (^|\.)startssl\.com$
 (^|\.)suning\.com$
@@ -7047,11 +7046,14 @@
 # 代理列表
 
 # MyList
+(^|\.)1password\.com$
+(^|\.)adguard\.org$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
 (^|\.)cccat\.io$
 (^|\.)cloudcone\.com$
 (^|\.)gameloft\.com$
+(^|\.)garena\.com$
 (^|\.)inoreader\.com$
 (^|\.)ip138\.com$
 (^|\.)ping\.pe$
@@ -7264,6 +7266,10 @@
 (^|\.)discord\.media$
 (^|\.)discordapp\.com$
 (^|\.)discordapp\.net$
+
+# Dubox
+(^|\.)dubox\.com$
+(^|\.)duboxcdn\.com$
 
 # Facebook
 (^|\.)facebook\.com$
